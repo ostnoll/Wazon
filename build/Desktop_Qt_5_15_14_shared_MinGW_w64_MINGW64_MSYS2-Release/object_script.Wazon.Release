@@ -1,0 +1,14 @@
+release/client.o
+release/courier.o
+release/dbmanager.o
+release/main.o
+release/order.o
+release/product.o
+release/widget.o
+release/qrc_Logo.o
+release/moc_client.o
+release/moc_courier.o
+release/moc_dbmanager.o
+release/moc_order.o
+release/moc_product.o
+release/moc_widget.o

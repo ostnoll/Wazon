@@ -1,0 +1,14 @@
+debug/client.o
+debug/courier.o
+debug/dbmanager.o
+debug/main.o
+debug/order.o
+debug/product.o
+debug/widget.o
+debug/qrc_logo.o
+debug/moc_client.o
+debug/moc_courier.o
+debug/moc_dbmanager.o
+debug/moc_order.o
+debug/moc_product.o
+debug/moc_widget.o
